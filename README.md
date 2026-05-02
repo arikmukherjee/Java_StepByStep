@@ -16,7 +16,7 @@ Key features:
 ## Repository structure
 
 Files in this repo are numbered practice problems:
-- `P1.java` through `P14.java` (example exercises and hands-on assignments)
+- `Intermediate` through `Advance Java` (example exercises and hands-on assignments)
 
 ## Getting started
 

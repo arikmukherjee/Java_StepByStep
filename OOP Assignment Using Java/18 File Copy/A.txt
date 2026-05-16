@@ -1,0 +1,5 @@
+This is the content of A.txt
+It contains multiple lines of text.
+This file will be copied to B.txt
+Java file I/O operations are demonstrated here.
+End of file content.

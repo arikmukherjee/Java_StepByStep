@@ -1,0 +1,3 @@
+javac BannerApplet.java
+
+appletviewer banner.html

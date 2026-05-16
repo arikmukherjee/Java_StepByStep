@@ -1,0 +1,101 @@
+*Java Assignment (Final)* 
+
+1. Write a program in Java for a shipping database using multilevel inheritance with at least 3 classes. All classes must have two member variables and a two-member method.
+
+2. Write a program in Java to calculate the area of different shapes using polymorphism and inheritance.
+
+3. Write a program in Java for Hospital management using Multilevel inheritance with at least 3 classes all classes must have two-member variable and two -member method.
+
+4. Write a program in Java for Library management using Multilevel inheritance with at least 3 classes all classes must have two-member variable and two -member method.
+
+5. Write a program in Java for Railway management using Multilevel inheritance with at least 3 classes all classes must have two-member variable and two -member method.
+
+6. Write a program in Java to implement stack data structure.
+
+7. Write a program in Java to implement queue data structure.
+
+8. Write a program in Java for University admission system using packages.
+
+9. Write a program in Java to implement stack data structure using package and interface.
+
+10. Write a program in Java to implement package and interface with inheritance.
+
+11. Write a program in Java to create your own exception.
+
+12. Write a program in Java for nested try catch.
+
+13. Write a program in Java to create multiple threads.
+
+14. Write a program in Java to demonstrate priority assigning to multiple threads.
+
+15. Write a program in Java to implement producer-consumer program using inter-thread communication.
+
+16. Write a program in Java to implement banker-algorithm in order to prevent deadlock.
+
+17. Write a program in Java to count the vowels of a 2-to-3-line text.
+
+18. Create a file A.txt and copy the content of A.txt to B.txt.
+
+19. Write a program in Java to create a banner using Applet.
+
+20. Write a Java Program to write a native method.
+
+21. Write a Java program to implement any five function of String.
+
+22. Write a Java program to demonstrate InetAddress.
+
+23. Write a Java program to demonstrate getPort().
+
+24. Write a Java program to demonstrate URL.
+
+25. Write a Java program to demonstrate datagram.
+
+26. Write a Java program to implement keyboard event listener. 
+
+27. Write a Java program to implement mouse event listener (click, enter, exited, pressed, release).
+
+28. Write a Java program to create a child frame window from within an applet.
+
+29. Write a Java program to create a night view of the sky using applet.
+
+30. Write a Java program to create a sand clock using applet.
+
+31. Write a Java program to bounce more than one ball.
+
+32. Write a Java program to create a digital clock.
+
+33. Write a Java program to create an analog clock.
+
+34. Write a Java program to create India’s flag.
+
+35. Write a Java program to create Ashok Chakra.
+
+36. Write a Java program to create concentric circles in different colours.
+
+37. Write a Java program to create different shapes.
+
+38. Write a Java program to display the fonts of a text.
+
+39. Write a Java program to display a text in a specific location on window.
+
+40. Write a Java program to demonstrate labels.
+
+41. Write a Java program to demonstrate buttons.
+
+42. Write a Java program to demonstrate checkbox.
+
+43. Write a Java program to demonstrate checkbox group.
+
+44. Write a Java program to demonstrate list.
+
+45. Write a Java program to demonstrate handing scroll bar.
+
+46. Write a Java program to create a calculator.
+
+47. Write a Java program to demonstrate menu bar.
+
+48. Write a Java program to display an image.
+
+49. Write a Java program to demonstrate sound effect.
+
+50. Write a Java Program for multiple exception in a single code.

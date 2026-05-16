@@ -1,0 +1,3 @@
+javac stack/interfacepkg/StackInterface.java stack/implementation/StackImpl.java stack/main/MainApp.java
+
+java stack.main.MainApp

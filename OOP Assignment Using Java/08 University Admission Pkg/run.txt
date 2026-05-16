@@ -1,0 +1,2 @@
+javac university/student/Student.java university/admission/Admission.java university/main/MainApp.java
+java university.main.MainApp
